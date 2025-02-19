@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">Meu nome é Ana Vitoria Eu sou um Tecnico, de Informatica</p>
+<p align="left">Meu nome é Ana Vitoria Eu sou uma Tecnica, de Informatica</p>
 
 ###
 
