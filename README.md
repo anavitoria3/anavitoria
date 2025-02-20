@@ -1,4 +1,4 @@
-# anavitoria
+#Apresentacao
 <h1 align="left">Olá 👋 Tudo Bem?</h1>
 
 ###
@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Criando bugs desde nunca...<br>📚 Atualmente estou aprendendo Planejamento de Carreira ...<br>🎯 Metas:Desenvolver mais habilidades ...<br>🎲 Curiosidade:Sou estudante ...</p>
 
 ###
 
